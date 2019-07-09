@@ -1,6 +1,7 @@
 /* fichier: "petit-comp.c" */
 /* Auteur du code squelette : Marc Feeley */
 /* Auteur: Abdel Ghani Labassi  */
+/* IFT2035  */
 
 /* Un petit compilateur et machine virtuelle pour un sous-ensemble de C.  */
 
